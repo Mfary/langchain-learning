@@ -37,6 +37,7 @@ flatbuffers==25.12.19
 frozenlist==1.8.0
 fsspec==2026.9.0
 googleapis-common-protos==1.76.0
+groq==1.7.0
 grpcio==1.85.1
 h11==0.16.0
 hf-xet==1.8.0
@@ -72,6 +73,7 @@ langchain-chroma==1.1.0
 langchain-classic==1.0.8
 langchain-community==0.4.2
 langchain-core==1.8.1
+langchain-groq==1.2.0
 langchain-ollama==1.1.0
 langchain-openai==1.8.0
 langchain-protocol==0.0.21
